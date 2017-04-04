@@ -1,0 +1,22 @@
+/* definition */
+@font-face {
+  font-family: UniversLTStdLight;
+  src: url('UniversLTStd-Light.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* use */
+html {
+    font-family: UniversLTStdLight, Lato, sans-serif;
+}
+
+body {
+    font-family: UniversLTStdLight, Lato, sans-serif;
+}
+p {
+    font-size: 16px;
+}
+h4 {
+    font-size: 16px;
+}
